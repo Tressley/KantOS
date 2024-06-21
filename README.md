@@ -1,28 +1,29 @@
-# KantOS
+![KantOS](https://i.imgur.com/ZeDJtXI.png)
 
-KantOS is a theme for muOS inspired by the Kanto region of Pokémon. It was built using original sprites from the Pokémon FireRed/LeafGreen and HeartGold/Soul Silver games. The font is 04b_03 created by [Yuji Oshimoto](http://www.04.jp.org/).
+## About
+KantOS is a theme for muOS inspired by the Kanto region of Pokémon. It was built using a combination of custom and original sprites from the Pokémon games. The font is 04b_03 created by [Yuji Oshimoto](http://www.04.jp.org/).
 
 ## Screenshots
 
 **Main Screen**
 
-![KantOS main screen](https://i.imgur.com/7jySGat.gif)
+![KantOS main screen](https://i.imgur.com/gKw6cb0.gif)
 
 **List View**
 
-![KantOS list view](https://i.imgur.com/xCW7ggj.png)
+![KantOS list view](https://i.imgur.com/4aKv5GA.png)
 
-**Bootscreen**
+**Keyboard**
 
-![KantOS bootscreen](https://i.imgur.com/iq47SQg.png)
+![KantOS keyboard view](https://i.imgur.com/KVeOgu1.png)
+
+**Bootlogo**
+
+![KantOS bootlogo](https://i.imgur.com/Nq0UUrO.png)
 
 **Charging**
 
-![KantOS charging view](https://i.imgur.com/chd4Sv0.png)
-
-**Loading**
-
-![KantOS loading view](https://i.imgur.com/lFIHgAF.png)
+![KantOS charging view](https://i.imgur.com/3i8TTA2.png)
 
 ## Installation
 
@@ -35,4 +36,4 @@ KantOS is a theme for muOS inspired by the Kanto region of Pokémon. It was buil
 
 This project is created for educational and entertainment purposes only and is not intended for commercial use. It is not endorsed by, affiliated with, or supported by The Pokémon Company (Pokémon), Nintendo, Game Freak, or Creatures. All characters, images, and related materials are trademarks and copyrights of their respective owners, including The Pokémon Company, Nintendo, Game Freak, and Creatures.
 
-No infringement is intended, and all rights related to the Pokémon franchise are fully acknowledged and respected. This project is not authorized for distribution, sale, or any commercial activity. Users are advised not to use this project for any unauthorized purpose.
+No infringement is intended, and all rights related to the Pokémon franchise are fully acknowledged and respected. This project is not authorized for sale or any commercial activity. Users are advised not to use this project for any unauthorized purpose.
